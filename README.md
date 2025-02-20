@@ -2,7 +2,7 @@
 
 Um jogo moderno e interativo de adivinhação de palavras construído com React e JavaScript. Os jogadores podem testar seu vocabulário e habilidades de pensamento rápido neste aplicativo web.
 
-![Visualização do Jogo](https://i.imgur.com/Hx9y4eX.jpg)
+![Visualização do Jogo](https://i.imgur.com/T4XRm0j.png)
 
 ## 🚀 Funcionalidades
 
