@@ -1,4 +1,4 @@
-# Jogo de Palavras em React
+# Jogo de Palavras em React ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 Um jogo moderno e interativo de adivinhação de palavras construído com React e JavaScript. Os jogadores podem testar seu vocabulário e habilidades de pensamento rápido neste aplicativo web.
 
